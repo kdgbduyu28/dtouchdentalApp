@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829015770870",
+    "firebase_url": "https://dtouchdental-65cea-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dtouchdental-65cea",
+    "storage_bucket": "dtouchdental-65cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829015770870:android:946d23e17a3f7922faced7",
+        "android_client_info": {
+          "package_name": "com.example.dtouchdental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829015770870-2t4qah6drs026vjrtv18va6arq026lde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaOlrMD2C04mRY6ZhQ9M9REgiT5N4MwHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829015770870-2t4qah6drs026vjrtv18va6arq026lde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
